@@ -2,6 +2,8 @@
 translate python documents to Chinese for convenient reference
 简而言之，这里用来存放那些Python文档君们，并且尽力将其翻译成中文~~
 
+gitbook地址：[Python Chinese documents](https://ictar.gitbooks.io/python-doc-zh/)
+
 # 说明
 1. 能在网上找到现成的当然是最好啦，这类型的文档，会直接提供链接，用[中文版](#)这种形式给出。
 2. 如果不能找到，会给出自己翻的中文版本。
@@ -10,7 +12,7 @@ translate python documents to Chinese for convenient reference
 欢迎抓虫~~
 
 # 目录说明
-- [Python Common](./Python Common/) python 常规文档
+- [Python Common](./Python%20Common 'python 常规文档') python 常规文档
 
 ## Web框架
 - [Django](./Django) Django 相关文档
@@ -31,22 +33,22 @@ translate python documents to Chinese for convenient reference
 - [Hardware](./Hardware)	硬件相关，物联网，无人机等……
 
 ## 科学计算和数据分析
-- [Science and Data Analysis](./Science and Data Analysis)
+- [Science and Data Analysis](./Science%20and%20Data%20Analysis 'Science and Data Analysis')
 
 ## 自然语言处理
 - [NLP](./NLP)
 
 ## 机器学习
-- [Machine Learning](./Machine Learning)
+- [Machine Learning](./Machine%20Learning 'Machine Learning')
 
 ## 函数式编程
-- [Functional Programming](./Functional Programming)
+- [Functional Programming](./Functional%20Programming 'Functional Programming')
 
 ## 图像处理
-- [Image Processing](./Image Processing)
+- [Image Processing](./Image%20Processing 'Image Processing')
 
 ## 资源
-- [Python Weekly](./Python Weekly)
+- [Python Weekly](./Python%20Weekly 'Python Weekly')
 - Pycoder's Weekly    
 	* 中文版：[蟒周刊](http://weekly.pychina.org/)
 

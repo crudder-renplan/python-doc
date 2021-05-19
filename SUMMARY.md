@@ -1,0 +1,158 @@
+# Summary
+
+* [介绍](README.md)
+
+## Python语言相关
+- [Python Common](./Python Common/README.md)
+	- [3.5.1](./Python Common/3.5.1/README.md)
+	- [What's New in Python xx](./Python Common/What's New in Python xx/README.md)
+		- [New In Python：变量注解语法](./Python Common/What's New in Python xx/New In Python：变量注解语法.md)
+		- [New in Python：数字字面量中的下划线](./Python Common/What's New in Python xx/New in Python：数字字面量中的下划线.md)
+	- [Python 2和3中的异常泄漏](./Python Common/Python 2和3中的异常泄漏.md)
+	- [为什么存在Python 3](./Python Common/为什么存在Python 3.md)
+	- [Python async-await教程](./Python Common/Python async-await教程.md)
+	- [hasattr()是有害的](./Python Common/hasattr()是有害的.md)
+	- [异常 - 原力的黑暗面](./Python Common/异常 - 原力的黑暗面.md)
+	- [Python Cookbook 3rd Edition Documentation(中文版)](http://python3-cookbook.readthedocs.org/zh_CN/latest/index.html)
+	- [什么是stackless](./Python Common/什么是stackless.md)
+	- [2016年的Python 3](./Python Common/2016年的Python 3.md)         
+	- [合并Python中的字典的惯用方法](./Python Common/合并Python中的字典的惯用方法.md)
+	- [惯用Python：推导](./Python Common/惯用Python：推导.md)
+	- [在Python 3中比较类型](./Python Common/在Python 3中比较类型.md)
+	- [Python 201 – 什么是双端队列(deque)](./Python Common/Python 201 – 什么是双端队列(deque).md)
+	- [高级asyncio测试](./Python Common/高级asyncio测试.md)
+	- [惯用Python：布尔表达式](./Python Common/惯用Python：布尔表达式.md)
+	- [base64-使用ASCII编码二进制数据](./Python Common/base64-使用ASCII编码二进制数据.md)
+	- [Lists和Tuples大对决](./Python Common/Lists和Tuples大对决.md)
+	- [解释python中的*args和**kwargs](./Python Common/解释python中的*args和**kwargs.md)
+	- [深度探索Python：让我们审查dict模块](./Python Common/深度探索Python：让我们审查dict模块.md)
+	- [不可不知的一点Python陷阱](./Python Common/不可不知的一点Python陷阱.md)
+	- [Python：声明动态属性](./Python Common/Python：声明动态属性.md)
+	- [了解Python类实例化](./Python Common/了解Python类实例化.md)
+	- [Python中的assert语句](./Python Common/Python中的assert语句.md)
+    - [Python新增的secrets模块](./Python Common/Python新增的secrets模块.md)
+    - [Python中的lambda表达式](./Python Common/Python中的lambda表达式.md)
+    - [我是如何修复 Python 3.7 中一个非常老的 GIL 竞争条件的](./Python Common/python37-gil-change.md)
+## Web框架
+- [Django](./Django/README.md)
+	- [1.9](./Django/1.9/README.md) Django 1.9版本官方文档
+	- [使用Django进行原型化](./Django/使用Django进行原型化.md)
+	- [使用Kubernetes使Django应用变得可扩展并具有弹性](./Django/使用Kubernetes使Django应用变得可扩展并具有弹性.md)
+	- [Django, ELB健康检查和持续交付](./Django/Django, ELB健康检查和持续交付.md)
+	- [带django教程的Facebook聊天机器人，又名笑话机器人](./Django/带django教程的Facebook聊天机器人，又名笑话机器人.md)
+	- [在Django中，如何为提高页面加载速度优化图像](./Django/在Django中，如何为提高页面加载速度优化图像.md)
+	- [Django Channels和Celery示例](./Django/Django Channels和Celery示例.md)
+	- [如何扩展Django User模型](./Django/如何扩展Django User模型.md)
+	- [Django中正确处理数据库并发的方法](./Django/Django中正确处理数据库并发的方法.md)
+
+- [Flask](./Flask/README.md)
+
+## web爬取
+- [Scrapy](./Scrapy/README.md)
+	- [Scrapinghub的Scrapy技巧系列](./Scrapy/Scrapinghub的Scrapy技巧系列/README.md)
+		- [跟着高手学习Scrapy技巧：第一部分](./Scrapy/Scrapinghub的Scrapy技巧系列/跟着高手学习Scrapy技巧：第一部分.md)
+		- [Scrapy技巧：2016年三月版](./Scrapy/Scrapinghub的Scrapy技巧系列/Scrapy技巧：2016年三月版.md)
+		- [Scrapy技巧：2016年四月版](./Scrapy/Scrapinghub的Scrapy技巧系列/Scrapy技巧：2016年四月版.md)
+		- [Scrapy技巧：2016年五月版](./Scrapy/Scrapinghub的Scrapy技巧系列/Scrapy技巧：2016年五月版.md)
+		- [Scrapy技巧：2016年六月版](./Scrapy/Scrapinghub的Scrapy技巧系列/Scrapy技巧：2016年六月版.md)
+		- [Scrapy技巧：2016年七月版](./Scrapy/Scrapinghub的Scrapy技巧系列/Scrapy技巧：2016年七月版.md)
+## DevOps工具
+- Fabric: [中文版](http://fabric-chs.readthedocs.org/zh_CN/chs/) | [英文版](http://docs.fabfile.org/en/1.11/index.html)
+
+- [Glances](https://github.com/nicolargo/glances)：[中文版](http://glances-zh.readthedocs.io/en/latest/) | [英文版](https://glances.readthedocs.io/en/latest/)
+
+## 测试
+- [Testing](./Testing/README.md)
+	- [Python Mock：简单介绍 —— 第一部分](./Testing/Python Mock：简单介绍 —— 第一部分.md)
+	- [在Python中使用Behave来开始行为测试](./Testing/在Python中使用Behave来开始行为测试.md)
+	- [基于属性的测试，hypothesis以及查找bug](./Testing/基于属性的测试，hypothesis以及查找bug.md)
+
+## 硬件
+- [Hardware](./Hardware/README.md)
+	- 用Python玩转Worcester Wave恒温器
+	    * [第一部分](./Hardware/用Python玩转Worcester Wave恒温器-第一部分.md)
+	    * [第二部分](./Hardware/用Python玩转Worcester Wave恒温器-第二部分.md)
+	    * [第三部分](./Hardware/用Python玩转Worcester Wave恒温器-第三部分.md)
+	- [使用Python构建一个（半）自动无人机](./Hardware/使用Python构建一个（半）自动无人机.md)
+	- [旅程中带着Ipad Pro和Raspberry Pi备份照片](./Hardware/旅程中带着Ipad Pro和Raspberry Pi备份照片.md)
+
+## 科学计算和数据分析
+- [Science and Data Analysis](./Science and Data Analysis/README.md)
+	- [如何使用Python和Pandas处理大量的JSON数据集](./Science and Data Analysis/如何使用Python和Pandas处理大量的JSON数据集.md)
+	- [新闻标题分析](./Science and Data Analysis/新闻标题分析.md)
+	- [使用矩阵分解找到相似歌曲](./Science and Data Analysis/使用矩阵分解找到相似歌曲.md)
+	- [Python中的并行处理](./Science and Data Analysis/Python中的并行处理.md)
+	- [Matplotlib教程 - 绘制提到Trump, Clinton & Sanders的推特](./Science and Data Analysis/Matplotlib教程 - 绘制提到Trump, Clinton & Sanders的推特.md)
+	- [使用Pandas, Docker和OS(R)M来猜测神秘的旅行地](./Science and Data Analysis/使用Pandas, Docker和OS(R)M来猜测神秘的旅行地.md)
+	- [使用BigQuery和TensorFlow进行需求预测](./Science and Data Analysis/使用BigQuery和TensorFlow进行需求预测.md)
+	- [Python中一个简单的基于内容的推荐引擎](./Science and Data Analysis/Python中一个简单的基于内容的推荐引擎.md)
+	- [在Python中实现你自己的推荐系统](./Science and Data Analysis/在Python中实现你自己的推荐系统.md)
+	- [分析权力游戏图表](./Science and Data Analysis/分析权力游戏图表.md)
+	- [使用Python探索NFL选秀](./Science and Data Analysis/使用Python探索NFL选秀.md)
+	- [用于格式化和数据清理的便捷Python库](./Science and Data Analysis/用于格式化和数据清理的便捷Python库.md)
+	- [分析iPhone步数数据](./Science and Data Analysis/分析iPhone步数数据.md)
+	- [使用Python，分析23AndMe数据，获取遗传起源](./Science and Data Analysis/使用Python，分析23AndMe数据，获取遗传起源.md)
+	- [用Python进行股票市场数据分析概述 (第一部分)](./Science and Data Analysis/用Python进行股票市场数据分析概述 (第一部分).md)
+
+## 自然语言处理
+- [NLP](./NLP/README.md)
+	- [003构建一个播客推荐算法](./NLP/003构建一个播客推荐算法.md)
+
+## 机器学习
+- [Machine Learning](./Machine Learning/README.md)
+	- [使用非常少的数据构建强大的图像分类模型](./Machine Learning/使用非常少的数据构建强大的图像分类模型.md)
+	- [在有限预算上计算最佳公路旅行](./Machine Learning/在有限预算上计算最佳公路旅行.md)
+	- [对超过1M的酒店点评进行机器学习，发现有趣的见解](./Machine Learning/对超过1M的酒店点评进行机器学习，发现有趣的见解.md)
+	- [Python，机器学习和语言之争](./Machine Learning/Python，机器学习和语言之争.md)
+	- [使用预测算法追踪实时健康趋势](./Machine Learning/使用预测算法追踪实时健康趋势.md)
+
+## 函数式编程
+- [Functional Programming](./Functional Programming/README.md)
+	- Henry Kupty的函数式编程扫盲系列
+	    - [函数式编程：概念，惯用语和理念](./Functional Programming/函数式编程：概念，惯用语和理念.md)
+	    - [了解函数式编程背后的属性：单子(Monad)](./Functional Programming/了解函数式编程背后的属性：单子(Monad).md)
+
+## 图像处理
+- [Image Processing](./Image Processing/README.md)
+	- [压缩和增强手写笔记](./Image Processing/压缩和增强手写笔记.md)
+
+## 资源
+- [Python Weekly](./Python Weekly/README.md)
+
+## 无法归类的
+- [Others](./Others/README.md)
+	- [使用图像特征的库存图像相似性(程序是如何比我更时尚的)](./Others/程序是如何比我更时尚的.md) 
+	- [如何在Python中使用Twilio Lookup API验证电话号码](./Others/如何在Python中使用Twilio Lookup API验证电话号码.md)
+	- [psutil 4.0.0以及如何获得Python中“真正的”进程内存和环境](./Others/psutil 4.0.0以及如何获得Python中“真正的”进程内存和环境.md) 
+	- [Python依赖关系分析](./Others/Python依赖关系分析.md) 
+	- [创造你自己的类IPython服务器](./Others/创造你自己的类IPython服务器.md) 
+	- [为部署Python web应用程序构建一个更好的用户体验](./Others/为部署Python web应用程序构建一个更好的用户体验.md)
+	- [在Python中导入一个Docker容器](./Others/在Python中导入一个Docker容器.md)
+	- [好吧，你发布了一个损坏的包到PyPI上。那么你现在要怎么办？](./Others/好吧，你发布了一个损坏的包到PyPI上。那么你现在要怎么办？.md)
+	- [Python中Meta类习语的起源](./Others/Python中Meta类习语的起源.md)
+	- [复合构建器模式(Composite Builder Pattern)，一个声明式编程的例子](./Others/复合构建器模式(Composite Builder Pattern)，一个声明式编程的例子)
+	- [将Python用于地理空间数据处理](./Others/将Python用于地理空间数据处理.md)
+	- [使用Python和Excel进行交互式数据分析](./Others/使用Python和Excel进行交互式数据分析.md)
+	- [RPython的魔力](./Others/RPython的魔力.md)
+	- [使用gdb调试CPython进程](./Others/使用gdb调试CPython进程.md)
+	- [使用Python Newspaper构建Read It Later应用](./Others/使用Python Newspaper构建Read It Later应用.md)
+	- [Python lambda的源代码](./Others/Python lambda的源代码.md)
+	- [如何在Python中创建绿噪音](./Others/如何在Python中创建绿噪音.md)
+	- [你需要学习编写Python装饰器的五大理由](./Others/你需要学习编写Python装饰器的五大理由.md)
+	- [逆向工程我的酒店中的一个神秘的UDP流](./Others/逆向工程我的酒店中的一个神秘的UDP流.md)
+	- [记录每天数以百万计的请求以及需要采取哪些措施](./Others/记录每天数以百万计的请求以及需要采取哪些措施.md)
+	- [教程：手把手教你构建一个基本的Facebook聊天机器人](./Others/教程：手把手教你构建一个基本的Facebook聊天机器人.md)
+	- [我的自动化之旅：为人民服务的自动化](./Others/我的自动化之旅：为人民服务的自动化.md)
+	- [实用Python：EAFP VS. LBYL](./Others/实用Python：EAFP VS. LBYL.md)
+	- [使用str.encode和threads冻结你的Python](./Others/使用str.encode和threads冻结你的Python.md)
+	- [Python, GIL, 和Pyston](./Others/Python, GIL, 和Pyston.md)
+	- [我是如何构建一个Slack机器人来帮助我在San Francisco找房子的](./Others/我是如何构建一个Slack机器人来帮助我在San Francisco找房子的.md)
+	- [中断两个循环](./Others/中断两个循环.md)
+	- [一个模板引擎是如何工作的？](./Others/一个模板引擎是如何工作的？.md)
+	- [设计Pythonic API](./Others/设计Pythonic API.md)
+	- [Requests vs. urllib：它解决了什么问题？](./Others/Requests vs. urllib：它解决了什么问题？.md)
+	- [更好的Python对象序列化方法](./Others/更好的Python对象序列化方法.md)
+	- [使用列表推导式实现zip](./Others/使用列表推导式实现zip.md)
+	- [Python项目中的Makefiles](./Others/Python项目中的Makefiles.md)
+	- [婚礼规模：我是如何使用Twilio, Python和Google来自动化我的婚礼的](./Others/婚礼规模：我是如何使用Twilio, Python和Google来自动化我的婚礼的.md)
+# [小黑屋](./raw/README.md)

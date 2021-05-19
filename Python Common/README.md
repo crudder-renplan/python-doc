@@ -71,3 +71,11 @@
 - [Python：声明动态属性](./Python：声明动态属性.md)
 
 - [了解Python类实例化](./了解Python类实例化.md)
+
+- [Python中的assert语句](./Python中的assert语句.md)
+
+- [Python新增的secrets模块](./Python新增的secrets模块.md)
+
+- [Python中的lambda表达式](./Python中的lambda表达式.md)
+
+- [我是如何修复 Python 3.7 中一个非常老的 GIL 竞争条件的](./python37-gil-change.md)
